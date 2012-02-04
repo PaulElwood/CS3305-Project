@@ -1,0 +1,57 @@
+Questionnaire for lecturers
+Q1.	Which of the following tasks do you find difficult?
+	Choosing a meeting date
+	Inviting people to a meeting
+	Replying to an invitation
+	Corresponding with other attendees
+	Remembering details for scheduled meetings
+Q2.	How do you manage this task now?
+Q3.	What solution would you require a software system provide?
+Q4.	What issues have you experienced in rescheduling an event?
+Q5.	Have you ever had to deal with double booking? How do you usually resolve a double booking?
+Q6.	How could organising your timetable be made easier?
+	e.g. labelling dates depending on the type of 	meeting/event.
+Q7.	Is there any other functionality you would like the 	software system to provide?
+Q8.	Do you have preference for meeting times?
+      How important is it to have your meetings at these 	preferred times?
+Q9.	How many meetings on average, would you schedule per 	week?
+Q10.	What is the longest time you’ve ever needed to 	schedule an event in advance?
+Q11.	Would you like to provide any other comments?
+
+
+
+Survey
+Explanation of survey
+
+Q1.	Which of the following tasks do you find difficult?
+	Choosing a meeting date
+	Inviting people to a meeting/event
+	Replying to an invitation
+	Corresponding with other attendees
+	Remembering details for scheduled meetings
+Please state reasons why:
+
+Q2.	What kind of group do you find yourself having the 	most trouble in scheduling meetings/events with?
+		a. Academic staff
+		b. Administrative staff
+		c. Students
+		d. Other
+		If other, please state:
+
+Q3.	Based on the previous answer: what is the main cause 	of difficulty in scheduling a meeting/event with 	this group?
+		a. Your own existing obligations (i.e. 		   problems due to your own timetable)
+		b. Other attendees existing obligations
+		c. Slow correspondence among attendees in 		   trying to establish a date
+		d. Something comes up that requires 		   rescheduling
+		e. Difficult to establish a location for the 		   meeting
+	Please elaborate:
+
+Q5.	How do you prefer to be contacted when 			scheduling a meeting/event?
+		a. Email
+		b. Social Networking sites (e.g. Facebook)
+		c. SMS/text message
+
+
+		
+	
+
